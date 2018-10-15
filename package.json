@@ -1,0 +1,14 @@
+{
+  "name": "autosave-screenshot",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "author": "Gervel Giva | gervelgiva@gmail.com",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "desktop-screenshot": "^0.1.1"
+  }
+}
